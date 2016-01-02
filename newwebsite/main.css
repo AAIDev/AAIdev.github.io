@@ -6,12 +6,19 @@ width: 100%;
 header {
   background-color: blue;
   position: absolute;
-  top: 15px;
+  top: 0px;
   z-index: 2;
   width: inherit;
-  height: auto;
+  height: 20px;
   overflow: hidden;
   margin:0 auto;
   left: 0;
   right: 0;
+}
+#text {
+  background-color: lightBlue;
+  margin:0 auto;
+  left: 0;
+  right: 0;
+  width: 70%;
 }
