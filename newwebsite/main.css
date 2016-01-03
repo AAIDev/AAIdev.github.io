@@ -18,7 +18,7 @@ header {
   text-align: center;
 }
 #text {
-  background-color: lightBlue;
+  background-color: #66ccff;
   margin:0 auto;
   left: 0;
   right: 0;
@@ -31,7 +31,6 @@ header {
 }
 #AAI {
   font-size: 375%;
-  background-color: #66ccff;
   font-family: 'Lobster', cursive;
 }
 #dev {
@@ -78,5 +77,6 @@ header {
   right: 0;
   text-align: center;
   background-color: red;
+  font-family: roboto, sans serif;
 }
 //End :D
