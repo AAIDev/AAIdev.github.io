@@ -49,6 +49,7 @@ header {
 }
 #members, #projects, #contact {
   cursor: pointer;
+  font-family: 'Kranky', cursive;
 }
 #members:hover, #projects:hover, #contact:hover {
   background-color: grey;
