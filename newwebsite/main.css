@@ -42,3 +42,20 @@ header {
   font-size: 200%;
   font-family: 'Kranky', cursive;
 }
+#members {
+  padding: 5px;
+  border-right-style: solid;
+  border-right-width: 1px;
+}
+#projects {
+  padding: 5px;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-style: solid;
+  border-right-width: 1px;
+}
+#contact {
+  padding: 5px;
+  border-left-style: solid;
+  border-left-width: 1px;
+}
