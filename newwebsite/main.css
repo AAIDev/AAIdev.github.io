@@ -41,16 +41,23 @@ header {
   font-size: 200%;
   font-family: 'Kranky', cursive;
 }
-#members {
+#home {
   padding: 5px;
   border-right-style: solid;
   border-right-width: 1px;
 }
-#members, #projects, #contact {
+#members {
+  padding: 5px;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-left-style: solid;
+  border-left-width: 1px;
+}
+#members, #projects, #contact, #home{
   cursor: pointer;
   font-family: 'Kranky', cursive;
 }
-#members:hover, #projects:hover, #contact:hover {
+#members:hover, #projects:hover, #contact:hover, #home:hover {
   background-color: grey;
 }
 #projects {
