@@ -69,4 +69,14 @@ header {
 .selected {
   background-color: lightGrey;
 }
+#main {
+  position: absolute;
+  top: 125px;
+  margin: 0 auto;
+  width: inherit;
+  left: 0;
+  right: 0;
+  text-align: center;
+  background-color: red;
+}
 //End :D
