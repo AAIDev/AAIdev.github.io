@@ -3,9 +3,10 @@ body {
 background-color: white;
 width: 100%;
 text-align: center;
+position: fixed;
 }
 header {
-  background-color: blue;
+  background-color: #1af508;
   position: absolute;
   top: 0px;
   z-index: 2;
