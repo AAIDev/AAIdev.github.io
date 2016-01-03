@@ -47,6 +47,12 @@ header {
   border-right-style: solid;
   border-right-width: 1px;
 }
+#members, #projects, #contact {
+  cursor: pointer;
+}
+#members:hover, #projects:hover, #contact:hover {
+  background-color: grey;
+}
 #projects {
   padding: 5px;
   border-left-style: solid;
@@ -59,3 +65,7 @@ header {
   border-left-style: solid;
   border-left-width: 1px;
 }
+.selected {
+  background-color: lightGrey;
+}
+//End :D
