@@ -24,5 +24,8 @@ header {
   right: 0;
   width: 70%;
   text-align: center;
-  padding: 100% 50px 50px 100%;
+  padding: 100% 200px 100% 200px;
+}
+#links {
+  position: relative;
 }
