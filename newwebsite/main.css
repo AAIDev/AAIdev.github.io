@@ -1,4 +1,5 @@
 @charset="UTF-8"
+@import url(https://fonts.googleapis.com/css?family=Lobster|Londrina+Outline|Kranky);
 body {
 background-color: white;
 width: 100%;
@@ -29,4 +30,17 @@ header {
 }
 #links {
   position: relative;
+}
+#AAI {
+  font-size: 375%;
+  background-color: #66ccff;
+  font-family: 'Lobster', cursive;
+}
+#dev {
+  font-size: 500%
+  font-family: 'Londrina Outline', cursive;
+}
+#dotgithub {
+  font-size: 200%;
+  font-family: 'Kranky', cursive;
 }
