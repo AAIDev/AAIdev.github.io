@@ -8,16 +8,26 @@ function to1() {
   document.getElementById("members").className = "selected";
   document.getElementById("contact").className = "";
   document.getElementById("projects").className = "";
+  document.getElementById("home").className = "";
 }
 function to2() {
-  document.getElementById("main").innerHTML = '<p id="p1">Welcome to the homepage of the most innovative developers in the galaxy.</p>';
+  document.getElementById("main").innerHTML = '<p id="p1">Welcome to the homepage of the most innovative developers in the galaxy. WAT?</p>';
   document.getElementById("projects").className = "selected";
   document.getElementById("members").className = "";
   document.getElementById("contact").className = "";
+  document.getElementById("home").className = "";
 }
 function to3() {
-  document.getElementById("main").innerHTML = '<p id="p1">Welcome to the homepage of the most innovative developers in the galaxy.</p>';
+  document.getElementById("main").innerHTML = '<p id="p1">Heymmmmmmammam</p>';
   document.getElementById("projects").className = "";
   document.getElementById("members").className = "";
   document.getElementById("contact").className = "selected";
+  document.getElementById("home").className = "";
+}
+function to4() {
+  document.getElementById("main").innerHTML = '<p id="p1">Welcome to the homepage of the most innovative developers in the galaxy.</p>';
+  document.getElementById("projects").className = "";
+  document.getElementById("members").className = "";
+  document.getElementById("contact").className = "";
+  document.getElementById("home").className = "selected";
 }
