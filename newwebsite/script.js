@@ -11,21 +11,21 @@ function to1() {
   document.getElementById("home").className = "";
 }
 function to2() {
-  document.getElementById("main").innerHTML = '<p id="p1">Welcome to the homepage of the most innovative developers in the galaxy. WAT?</p>';
+  document.getElementById("main").innerHTML = '<p id="p2">Welcome to the homepage of the most innovative developers in the galaxy. WAT?</p>';
   document.getElementById("projects").className = "selected";
   document.getElementById("members").className = "";
   document.getElementById("contact").className = "";
   document.getElementById("home").className = "";
 }
 function to3() {
-  document.getElementById("main").innerHTML = '<p id="p1">Heymmmmmmammam</p>';
+  document.getElementById("main").innerHTML = '<p id="p3">Heymmmmmmammam</p>';
   document.getElementById("projects").className = "";
   document.getElementById("members").className = "";
   document.getElementById("contact").className = "selected";
   document.getElementById("home").className = "";
 }
 function to4() {
-  document.getElementById("main").innerHTML = '<p id="p1">Welcome to the homepage of the most innovative developers in the galaxy.</p>';
+  document.getElementById("main").innerHTML = '<p id="p4">Welcome to the homepage of the most innovative developers in the galaxy.</p>';
   document.getElementById("projects").className = "";
   document.getElementById("members").className = "";
   document.getElementById("contact").className = "";
